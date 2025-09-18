@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       cf8259bf-6c6f-4dfa-891e-0a7856432a2a
+:END:
+#+title: Travel Proposals
+* Asia
+** China
+*** [[id:1dc8870f-f7fc-42d2-a526-215d0fb45949][新疆]]
+*** [[id:345018dd-5480-4e44-b4b4-7470d2cb65b4][西藏]]
+*** [[id:e35557d3-e402-4483-968e-471e0b112191][广西]]
+**** 桂林
+**** [[id:711537ac-2acb-480d-ab52-35e0340d254f][阳朔]]
+*** [[id:edee75e4-e16c-454d-8d00-c6d47f422614][福建]]
+**** [[id:df65aa27-c0f5-440c-bd76-51d7a4113e4a][平潭]]
+* Europe
+** Russia
+** Iceland
